@@ -118,7 +118,7 @@ samtools index bwa/Muestra1"_sorted.bam"
 freebayes -f Reference.fasta bwa/Muestra1_sorted.bam > variantes.vcf
 could not open Reference.fasta
 
-# Use an IGV program to analyze the data
+# Finally use an IGV program to analyze the data
 ```
 
 
