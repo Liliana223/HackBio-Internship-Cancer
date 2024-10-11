@@ -1,0 +1,8 @@
+# Tools
+
+# Fastqc
+# Trimming
+# Genome Mapping bwa 
+# Variant Calling freebayes
+
+
