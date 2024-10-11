@@ -15,7 +15,7 @@ NGS (next-generation sequencing) analysis of a simple dataset involves processin
 
 [Tools. setup.sh](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Implement_a_simple_NGS_analysis_on_a_simple_dataset/setup.sh)
 
-[Final pipeline. script.sh](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Implement_a_simple_NGS_analysis_on_a_simple_dataset/requirement.txt)
+[Final pipeline. script.sh](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Implement_a_simple_NGS_analysis_on_a_simple_dataset/script.sh)
 
 
 
