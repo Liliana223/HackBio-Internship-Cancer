@@ -256,6 +256,7 @@ In Europe and some countries in America, the low incidence of cholera is due to 
 
 In this assignment, our team of two AMR epidemiologists and five front-end bioinformaticians collaborated to create a **Shiny app** that improves the visual representation and reporting of cholera epidemic data collected from the **World Health Organization**. Our major goal was to design an accessible and interactive dashboard that could be used to show global cholera epidemic data as well as provide detailed summaries and reports for individual countries.
 To see the app in working click [CholeraTrack](https://duagulzar.shinyapps.io/CholeraTrack/)
+or visit [Repository](https://github.com/duagulzar/CholeraTrack/blob/main/Report%2FStage_3_Report.md)
 
 ## **Source of files** 
 
